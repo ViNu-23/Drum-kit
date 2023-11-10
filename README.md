@@ -1,5 +1,7 @@
 # DJ Drum-kit 
 
+<img width="360" alt="Screenshot 2023-11-11 032216" src="https://github.com/ViNu-23/Drum-kit/assets/59360964/4d7b6b77-628d-4e8f-8181-66b30cba999b">
+
 This JavaScript code, in conjunction with the HTML and CSS you provided earlier, creates a simple web application that plays different audio files when you click on different drum elements.
 
 Here's an overview of how the application works:
