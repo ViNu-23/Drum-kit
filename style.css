@@ -1,0 +1,62 @@
+
+body {
+  background-color: rgb(181, 219, 254);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+  font-family: 'Bungee Spice', sans-serif;
+}
+.container {
+  background-color: rgb(244, 240, 247);
+  padding: 2rem;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.drum {
+  height: 4rem;
+  width: 4rem;
+  margin: 0.4rem;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.first_row div {
+  background-color: #f2b0b085;
+}
+.second_row div {
+  background-color: #b5c8f4;
+}
+.third_row div {
+  background-color: #dcb7f3;
+}
+.fourth_row div {
+  background-color: #cddb95;
+}
+.fifth_row div {
+  background-color: #a0e3a6;
+}
+.first_row .drum:hover{
+    background-color: #f50707e0;
+    transform: scale(1.2);
+}
+.second_row .drum:hover{
+    background-color: #0e52f3;
+    transform: scale(1.2);
+}
+.third_row .drum:hover{
+    background-color: #9609ed;
+    transform: scale(1.2);
+}
+.fourth_row .drum:hover{
+    background-color: #bae60d;
+    transform: scale(1.2);
+}
+.fifth_row .drum:hover{
+    background-color: #05e318;
+    transform: scale(1.2);
+}
