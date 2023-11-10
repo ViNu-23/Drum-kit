@@ -30,4 +30,5 @@ Here's an overview of how the application works:
    - The switch statement checks the value of the key and assigns the appropriate audio file path to the `src` property of the `Audio` object.
    - If the key doesn't match any case, it logs "default" to the console.
 
-#Play Demo Here: https://vinu-23.github.io/Drum-kit-Using-JS/
+# Play Demo Here: 
+https://vinu-23.github.io/Drum-kit-Using-JS/
