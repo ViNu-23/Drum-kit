@@ -30,6 +30,4 @@ Here's an overview of how the application works:
    - The switch statement checks the value of the key and assigns the appropriate audio file path to the `src` property of the `Audio` object.
    - If the key doesn't match any case, it logs "default" to the console.
 
-Note: There is a typo in the switch statement where "case "s":" appears twice. The second occurrence should be a different letter.
 
-Ensure that the audio files exist in the specified paths, and the file names are correct. Also, fix the typo in the switch statement for the application to work correctly.

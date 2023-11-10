@@ -106,7 +106,7 @@ function makeSound(key) {
       audio.play();
       break;
 
-      case "s":
+      case "t":
       audio.src = "audio/song (20).mp3";
       audio.play();
       break;
